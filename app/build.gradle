@@ -49,4 +49,7 @@ dependencies {
 
     implementation 'com.myhexaville:smart-image-picker:1.0.4'
 
+    implementation 'pl.droidsonroids.gif:android-gif-drawable:1.2.21'
+
+
 }

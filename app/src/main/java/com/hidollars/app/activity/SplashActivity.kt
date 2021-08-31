@@ -28,7 +28,7 @@ class SplashActivity : AppCompatActivity() {
             startActivity(Intent(this@SplashActivity, MainActivity::class.java))
             finish()
         }
-        postDelayed.postDelayed(runnable, 3500)
+        postDelayed.postDelayed(runnable, 2300)
     }
 
     private fun loadGif() {
